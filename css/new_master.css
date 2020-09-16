@@ -220,3 +220,18 @@ pre {
 	margin-top: 2.0em;
 	margin-bottom: .5em;
 }
+#projects{
+	font-size: large;
+}
+#projects>li{
+	margin-bottom: 1.5em;
+}
+/* .projectbullets{
+	list-style: none;
+} */
+.projectbullets>p{
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
+	font-size: medium;
+	font-style: italic;
+}

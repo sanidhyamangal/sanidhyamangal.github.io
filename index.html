@@ -16,15 +16,15 @@
 		}
 	</script>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178007855-1"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag() { dataLayer.push(arguments); }
-	gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178007855-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
 
-	gtag('config', 'UA-178007855-1');
-</script>
+		gtag('config', 'UA-178007855-1');
+	</script>
 
 </head>
 
@@ -52,13 +52,15 @@
 						University</a>. My
 					research interest lies broadly in computer vision and bioinformatics. Much of
 					my work includes image classification coupled with computer aided diagnosis
-					and image generation. Problems in this vein that I'm currently excited about
+					and image generation. I've also explored seq2seq models for generating timeseries sequential data.
+					Problems in this vein that I'm currently excited about
 					include:
 					<br>
 				</p>
 				<p style="margin-left:3em;margin-top:-0.5em;margin-bottom:1.25em;">
-					(1) Assistive and Guided surgery using computer vision<br>
+					(1) Designing CNN architectures for Medical Image Segmentation<br>
 					(2) Predicting mutation on chronic diseases using adversarial nets<br>
+					(3) Adverserial attacks on histopathological images for fooling CAD<br>
 				</p>
 			</div>
 		</div>
@@ -93,7 +95,8 @@ primaryClass={eess.IV}
 						generation</a><br>
 					<b>Sanidhya Mangal</b>, Rahul Modak and Poorva Joshi.<br>
 					<i>arXiv</i><br>
-					<h2><a href="javascript:unhide('arXivbirnn');" class="bibtex">bibtex</a></h2>
+					<h2><a href="https://github.com/sanidhyamangal/gru_lstm_tv_script">code</a> //
+						<a href="javascript:unhide('arXivbirnn');" class="bibtex">bibtex</a></h2>
 					<div id="arXivbirnn" class="hidden">
 						<pre>
 @misc{mangal2019lstm,
@@ -111,9 +114,10 @@ primaryClass={cs.CL}
 				<li>
 					<a href="https://arxiv.org/abs/1908.01080">LSTM Based Music Generation System</a><br>
 					<b>Sanidhya Mangal</b>, Rahul Modak and Poorva Joshi.<br>
-					<i>arXiv</i><br>
-					<h2><a href="javascript:unhide('arxivmusic');" class="bibtex">bibtex</a></h2>
-					<div id="arxivmusic" class="hidden">
+					<i>IARJSET</i><br>
+					<h2><a href="https://gitlab.com/sanidhyamangal/music_research">code</a> //
+						<a href="javascript:unhide('iarjsetmusic');" class="bibtex">bibtex</a></h2>
+					<div id="iarjsetmusic" class="hidden">
 						<pre>
 @article{Mangal_2019,
 title={LSTM Based Music Generation System},
@@ -137,15 +141,36 @@ pages={47–54}
 	</div>
 	<div class="posts-wrapper" style="clear:both">
 		<h3 id="gotopubs" style="margin-top:-1.0em;margin-bottom:0.5em;">Projects</h3>
-		<ul class="projects">
-
+		<ul id="projects">
 			<li>
-				<a href="https://arxiv.org/abs/2009.03878">Convolution Neural Networks for diagnosing colon and lung
-					cancer histopathological images</a><br>
-				<b>Sanidhya Mangal</b>, Aanchal Chaurasia and Ayush Khajanchi.<br>
-				<i>arXiv</i><br>
-				<h2><a href="https://github.com/sanidhyamangal/lung_colon_cancer_research">code</a> // <a
-						href="javascript:unhide('arXivcnnlc');" class="bibtex">bibtex</a></h2>
+				<a href="https://github.com/sanidhyamangal/smart_doc_flask">Computer aided diagnosis for Pneumonia CT
+					scan and Malaria blood
+					cell slides</a><br>
+				<div class="projectbullets">
+					<p>Powered by convolution neural network(CNN) to classify lung CT scans into viral or bacterial
+						pneumonia or normal and detecting malaria pathogens from blood sides.</p>
+					<p>All the implementation was done using keras achieving an accuracy of 92% and 94% for pneumonia
+						and malaria respectively. </p>
+					<p>A flask based webapp was developed for serving the models</p>
+				</div>
+			</li>
+			<li>
+				<a href="https://github.com/sanidhyamangal/covid-19_dataset">Covid Screening using lung CT scan
+					images</a><br>
+				<div class="projectbullets">
+					<p>Powered by convolution neural network(CNN) and backed by transfer learning, MobileNetV2
+						architecture pretrained on imagenet was used to screen CovSars-2 virus.</p>
+					<p>Two seperate models were trained one to tune only after 100 layers and other to tune complete
+						architecture with AUC of 0.61 and 0.53 respectively.</p>
+				</div>
+			</li>
+			<li>
+				<a href="https://github.com/sanidhyamangal/fashion_vae">Fashion Image generation using VAE</a><br>
+				<div class="projectbullets">
+					<p>A shallow variational autoencoder for generating fashion images based on <a
+							href="https://www.kaggle.com/zalando-research/fashionmnist">fashion mnist</a> which was
+						successful in learning latent information from images</p>
+				</div>
 			</li>
 		</ul>
 	</div>
@@ -153,7 +178,10 @@ pages={47–54}
 </body>
 <footer>
 	<div class="posts-wrapper">
-		<p id="footernote"> Note: I would like to thank <a href="https://people.cs.umass.edu/~miyyer/">Mohit Iyyer</a> for putting such an amazing template on web and for this html structure</p>
+		<p id="footernote"> Credits: I would like to thank <a href="https://people.cs.umass.edu/~miyyer/">Mohit
+				Iyyer</a>
+			for this html structure</p>
 	</div>
 </footer>
+
 </html>
