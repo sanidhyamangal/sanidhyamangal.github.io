@@ -7,3 +7,6 @@
 - updated: css files
 - updated: biography section
 - updated: footer section for the website
+
+### 2020-09-18
+- added: target _blank in href
