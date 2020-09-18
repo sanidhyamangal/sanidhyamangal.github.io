@@ -25,7 +25,7 @@ html {
 }
 
 
-@font-face {
+/* @font-face {
 	font-family: 'roboto_slab';
 	src: url('../type/RobotoSlab-Light.ttf');
 }
@@ -33,7 +33,7 @@ html {
 @font-face {
 	font-family: 'roboto_bold';
 	src: url('../type/RobotoSlab-Regular.ttf');
-}
+} */
 
 h1 {
 	font-family: 'roboto_bold';
