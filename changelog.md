@@ -12,4 +12,5 @@
 - added: target _blank in href
 
 ### 2020-09-19
-- added: more projects, translator, paleography-analysis, face detection and single qna
+- added: more projects, translator, paleography-analysis, face detection and single qna, wikipedia article generation and style transfer
+- added: resume
