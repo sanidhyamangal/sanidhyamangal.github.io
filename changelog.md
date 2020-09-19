@@ -10,3 +10,6 @@
 
 ### 2020-09-18
 - added: target _blank in href
+
+### 2020-09-19
+- added: more projects, translator, paleography-analysis, face detection and single qna
