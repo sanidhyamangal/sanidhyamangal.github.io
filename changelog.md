@@ -18,3 +18,4 @@
 ### 2020-10-07
 - added: DCGAN project and its files in on the website
 - added: project-images class in css file for styling
+- updated: resume file
