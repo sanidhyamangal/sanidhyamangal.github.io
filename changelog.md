@@ -14,3 +14,7 @@
 ### 2020-09-19
 - added: more projects, translator, paleography-analysis, face detection and single qna, wikipedia article generation and style transfer
 - added: resume
+
+### 2020-10-07
+- added: DCGAN project and its files in on the website
+- added: project-images class in css file for styling

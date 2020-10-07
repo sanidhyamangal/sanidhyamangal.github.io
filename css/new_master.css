@@ -235,3 +235,7 @@ pre {
 	font-size: medium;
 	font-style: italic;
 }
+
+.project-images{
+	float: right;
+}
