@@ -19,3 +19,6 @@
 - added: DCGAN project and its files in on the website
 - added: project-images class in css file for styling
 - updated: resume file
+
+### 2020-10-08
+- added: Denoising AE project and its files
