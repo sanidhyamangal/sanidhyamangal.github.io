@@ -22,3 +22,6 @@
 
 ### 2020-10-08
 - added: Denoising AE project and its files
+
+### 2020-10-09
+- added: meta tags for seo
