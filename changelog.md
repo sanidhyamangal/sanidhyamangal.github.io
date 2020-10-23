@@ -28,3 +28,4 @@
 
 ### 2020-10-23
 - updated: research interest page
+- added: text classification project
