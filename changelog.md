@@ -25,3 +25,6 @@
 
 ### 2020-10-09
 - added: meta tags for seo
+
+### 2020-10-23
+- updated: research interest page
