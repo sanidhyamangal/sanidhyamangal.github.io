@@ -29,3 +29,6 @@
 ### 2020-10-23
 - updated: research interest page
 - added: text classification project
+
+### 2020-11-10
+- fix: domain pointing to the denoising ae project
