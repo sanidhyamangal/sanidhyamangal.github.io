@@ -32,3 +32,6 @@
 
 ### 2020-11-10
 - fix: domain pointing to the denoising ae project
+
+### 2020-11-27
+- updated: DP for the portfolio
