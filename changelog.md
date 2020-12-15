@@ -35,3 +35,6 @@
 
 ### 2020-11-27
 - updated: DP for the portfolio
+
+#### 2020-12-15
+- added: cifar wgans and fashion mnist wasserstien gans under project
