@@ -38,3 +38,7 @@
 
 #### 2020-12-15
 - added: cifar wgans and fashion mnist wasserstien gans under project
+
+#### 2020-12-23
+- added lsgan project
+- removed unwanted keywords and updated description to show my name
