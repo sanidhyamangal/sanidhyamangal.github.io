@@ -36,9 +36,13 @@
 ### 2020-11-27
 - updated: DP for the portfolio
 
-#### 2020-12-15
+### 2020-12-15
 - added: cifar wgans and fashion mnist wasserstien gans under project
 
-#### 2020-12-23
+### 2020-12-23
 - added lsgan project
 - removed unwanted keywords and updated description to show my name
+
+### 2020-12-29
+- added anime generator project.
+- corrected formatting for changelog
