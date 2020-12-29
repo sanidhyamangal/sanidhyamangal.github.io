@@ -46,3 +46,4 @@
 ### 2020-12-29
 - added anime generator project.
 - corrected formatting for changelog
+- updated image for lsgan
