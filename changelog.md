@@ -47,3 +47,6 @@
 - added anime generator project.
 - corrected formatting for changelog
 - updated image for lsgan
+
+### 2021-01-09
+- added gan framework under project
