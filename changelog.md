@@ -50,3 +50,6 @@
 
 ### 2021-01-09
 - added gan framework under project
+
+### 2021-01-29
+- updated resume for including latest projects
