@@ -56,3 +56,6 @@
 
 ### 2021-01-29
 - updated resume for including latest projects
+
+### 2021-02-05
+- Changed resume to remove phone number for web-version
