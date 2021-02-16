@@ -62,3 +62,4 @@
 
 ### 2021-02-16
 - added: news section for the website.
+- updated: intro para along with pointers for research interest
