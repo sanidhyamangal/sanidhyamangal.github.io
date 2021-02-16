@@ -54,5 +54,11 @@
 ### 2021-01-19
 - added favicons and fixed issue with language for gan project
 
+### 2021-01-29
+- updated resume for including latest projects
+
+### 2021-02-05
+- Changed resume to remove phone number for web-version
+
 ### 2021-02-16
 - added: news section for the website.
