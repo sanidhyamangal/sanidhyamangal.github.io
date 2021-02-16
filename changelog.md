@@ -53,3 +53,6 @@
 
 ### 2021-01-19
 - added favicons and fixed issue with language for gan project
+
+### 2021-02-16
+- added: news section for the website.
