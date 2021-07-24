@@ -59,3 +59,6 @@
 
 ### 2021-02-05
 - Changed resume to remove phone number for web-version
+
+### 2021-07-25
+- added: deep sv filter project
