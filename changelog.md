@@ -66,3 +66,8 @@
 
 ### 2021-07-25
 - added: deep sv filter project
+
+### 2021-08-21
+- updates: added new resume for the research opps.
+- updated: email to vandy email
+- updated: intro para with the better computer vision related keywords.
