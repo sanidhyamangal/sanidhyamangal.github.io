@@ -71,3 +71,6 @@
 - updates: added new resume for the research opps.
 - updated: email to vandy email
 - updated: intro para with the better computer vision related keywords.
+
+### 2021-09-16
+- updated: resume for better formatting and inputs from career center.
