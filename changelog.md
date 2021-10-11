@@ -74,3 +74,6 @@
 
 ### 2021-09-16
 - updated: resume for better formatting and inputs from career center.
+
+### 2021-10-11
+- feat: added Aquila research paper.
