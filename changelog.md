@@ -79,5 +79,5 @@
 - feat: added Aquila research paper.
 
 ### 2022-01-03
-- feat: added bibm notification in news section
+- feat: added bibm notification and vandyhacks in news section
 - feat: added pac and mc solver project and its information
