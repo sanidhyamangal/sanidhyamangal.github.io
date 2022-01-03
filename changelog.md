@@ -80,3 +80,4 @@
 
 ### 2022-01-03
 - feat: added bibm notification in news section
+- feat: added pac and mc solver project and its information
