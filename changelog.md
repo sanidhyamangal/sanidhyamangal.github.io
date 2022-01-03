@@ -77,3 +77,6 @@
 
 ### 2021-10-11
 - feat: added Aquila research paper.
+
+### 2022-01-03
+- feat: added bibm notification in news section
