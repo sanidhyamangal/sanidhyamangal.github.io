@@ -81,3 +81,7 @@
 ### 2022-01-03
 - feat: added bibm notification, vu and vandyhacks in news section
 - feat: added pac and mc solver project and its information
+
+### 2022-01-04
+- updated: resume
+- feat: added linkedin link
