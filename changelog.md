@@ -85,3 +85,4 @@
 ### 2022-01-04
 - updated: resume
 - feat: added linkedin link
+- updated: introduction and summary
