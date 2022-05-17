@@ -86,3 +86,7 @@
 - updated: resume
 - feat: added linkedin link
 - updated: introduction and summary
+
+### 2022-05-17
+- Added: new projects from the spring semester
+- updated: new resume
