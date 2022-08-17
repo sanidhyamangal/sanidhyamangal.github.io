@@ -90,3 +90,8 @@
 ### 2022-05-17
 - Added: new projects from the spring semester
 - updated: new resume
+
+### 2022-08-17
+- updated: Cocised resume
+- added: internship and methods paper in news
+- updated: description to include asurion instead of something else
