@@ -95,3 +95,6 @@
 - updated: Cocised resume
 - added: internship and methods paper in news
 - updated: description to include asurion instead of something else
+
+### 2022-08-20
+- updated: resume based on Sri's comments.
