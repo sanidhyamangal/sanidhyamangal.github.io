@@ -104,3 +104,6 @@
 
 ### 2022-08-22
 - updated: resume based on Sri's comments, 4th iteration.
+
+### 2022-09-01
+- Added: Methods journal paper.
