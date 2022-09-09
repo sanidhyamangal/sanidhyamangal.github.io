@@ -107,3 +107,6 @@
 
 ### 2022-09-01
 - Added: Methods journal paper.
+
+### 2022-09-08
+- fixed: developer tools and words in resume
