@@ -110,3 +110,6 @@
 
 ### 2022-09-08
 - fixed: developer tools and words in resume
+
+### 2022-09-16
+- added: more work ex in the resume.
