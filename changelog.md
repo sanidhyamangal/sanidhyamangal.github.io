@@ -116,3 +116,6 @@
 
 ### 2020-09-19
 - fixed: resume dates for Greater Kailash hospitals
+
+### 2022-12-17
+- updated: resume items
