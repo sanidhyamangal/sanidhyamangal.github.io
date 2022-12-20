@@ -119,3 +119,8 @@
 
 ### 2022-12-17
 - updated: resume items
+
+### 2022-12-20
+- updated: RESUME
+- Added: grad info
+- updated: bio
