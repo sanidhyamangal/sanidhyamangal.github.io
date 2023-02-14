@@ -124,3 +124,6 @@
 - updated: RESUME
 - Added: grad info
 - updated: bio
+
+### 2023-02-14
+- updated: Resume
