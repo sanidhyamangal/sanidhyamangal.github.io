@@ -86,3 +86,44 @@
 - updated: resume
 - feat: added linkedin link
 - updated: introduction and summary
+
+### 2022-05-17
+- Added: new projects from the spring semester
+- updated: new resume
+
+### 2022-08-17
+- updated: Cocised resume
+- added: internship and methods paper in news
+- updated: description to include asurion instead of something else
+
+### 2022-08-20
+- updated: resume based on Sri's comments.
+
+### 2022-08-21
+- updated: resume based on Sri's comments, 3rd iteration.
+
+### 2022-08-22
+- updated: resume based on Sri's comments, 4th iteration.
+
+### 2022-09-01
+- Added: Methods journal paper.
+
+### 2022-09-08
+- fixed: developer tools and words in resume
+
+### 2022-09-16
+- added: more work ex in the resume.
+
+### 2020-09-19
+- fixed: resume dates for Greater Kailash hospitals
+
+### 2022-12-17
+- updated: resume items
+
+### 2022-12-20
+- updated: RESUME
+- Added: grad info
+- updated: bio
+
+### 2023-02-14
+- updated: Resume
