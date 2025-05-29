@@ -127,3 +127,10 @@
 
 ### 2023-02-14
 - updated: Resume
+
+### 2024-08-17
+- Updated: Profile description to cover all the important information.
+
+### 2025-05-28
+- updated: Resume
+- Updated: Projects section to include fizzbuzz aka AI agent to leverage YahooFinance API
